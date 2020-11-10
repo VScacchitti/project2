@@ -1,13 +1,13 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "passport_demo",
+    "username": "test_user",
+    "password": "password",
+    "database": "rebate_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
+    "username": "test_user",
     "password": null,
     "database": "database_test",
     "host": "127.0.0.1",
