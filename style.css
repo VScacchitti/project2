@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #8b0000, #a50000, #be0000, #d80000);
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+.jumbotron{
+    background-image: url('https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    height:800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom:1px solidcolor;
+    color: white
+   }
+   .jumbotron .container {
+       position:relative;
+       top:50px;
+   }
